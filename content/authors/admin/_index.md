@@ -92,6 +92,10 @@ skills:
         description: ''
         percent: 80
         icon: python
+      - name: Numpy
+        description: ''
+        percent: 90
+        icon: numpy
       - name: MySQL
         description: ''
         percent: 90
