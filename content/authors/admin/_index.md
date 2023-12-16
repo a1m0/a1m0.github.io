@@ -81,7 +81,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-feature:
+features:
   - name: Technical Skills
     items:
       - name: Linux
