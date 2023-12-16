@@ -31,38 +31,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:alireza.mohammadzade.otaghloo@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/almo99
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mohammadzadealireza/
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
 
 education:
-  # - area: PhD Artificial Intelligence
-  #   institution: Stanford University
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-  #   button:
-  #     text: 'Read Thesis'
-  #     url: 'https://example.com'
-
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
-
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
   - area: BSc Computer Software Engineering
     institution: Imam Khomeini International University (IKIU)
     date_start: 2017-09-01
