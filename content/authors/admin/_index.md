@@ -99,7 +99,7 @@ skills:
       - name: MySQL
         description: ''
         percent: 90
-        icon: mysql
+        icon: /mysql
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
