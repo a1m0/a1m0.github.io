@@ -40,7 +40,7 @@ education:
   - area: BSc Computer Software Engineering
     institution: Imam Khomeini International University (IKIU)
     date_start: 2017-09-01
-    date_end: 2022-04-31
+    date_end: 2022-04-15
     summary: |
       GPA: 16.76/20.0
       
