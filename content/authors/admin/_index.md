@@ -84,22 +84,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Linux
-        description: ''
-        percent: 80
-        icon: linux
       - name: Python
         description: ''
         percent: 80
-        icon: python
-      - name: Numpy
+        icon: code-bracket
+      - name: Data Science
         description: ''
-        percent: 90
-        icon: numpy
-      - name: MySQL
+        percent: 100
+        icon: chart-bar
+      - name: SQL
         description: ''
-        percent: 90
-        icon: mysql
+        percent: 40
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
