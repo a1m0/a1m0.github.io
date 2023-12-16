@@ -92,7 +92,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icons: python
+        icon: python
         icon_pack: custom
       - name: Numpy
         description: ''
