@@ -81,7 +81,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+feature:
   - name: Technical Skills
     items:
       - name: Linux
@@ -111,7 +111,7 @@ skills:
       - name: Coffee
         description: ''
         percent: 100
-        icon: cat
+        icon: coffee
       - name: Photography
         description: ''
         percent: 70
