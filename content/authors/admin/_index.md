@@ -87,11 +87,13 @@ skills:
       - name: Linux
         description: ''
         percent: 80
-        icon: custom/linux
+        icon: linux
+        icon_pack: custom
       - name: Python
         description: ''
         percent: 80
-        icon: custom/python
+        icons: python
+        icon_pack: custom
       - name: Numpy
         description: ''
         percent: 90
@@ -99,7 +101,7 @@ skills:
       - name: MySQL
         description: ''
         percent: 90
-        icon: mysql
+        icon: mysql.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
