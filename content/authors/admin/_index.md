@@ -32,7 +32,7 @@ profiles:
     url: 'mailto:alireza.mohammadzade.otaghloo@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/almo99
+    url: https://github.com/a1m0
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mohammadzadealireza/
 
