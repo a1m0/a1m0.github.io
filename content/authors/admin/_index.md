@@ -116,7 +116,7 @@ skills:
       - name: Coffee
         description: ''
         percent: 100
-        icon: devicon/coffeescript
+        icon: devicon/coffeescript-original
       - name: Photography
         description: ''
         percent: 80
