@@ -97,10 +97,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: JavaScript
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 80
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
@@ -111,16 +111,20 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Coffee
         description: ''
         percent: 100
-        icon: cat
+        icon: coffee-bean
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
 
 languages:
   - name: Persian/Farsi
