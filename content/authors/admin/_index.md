@@ -63,19 +63,18 @@ work:
       - Automated product categorization in e-commerce with a deep learning image classifier, achieving a score of 70-75% on various metrics.
       - Promoted effective team communication and collaboration.
 
-  - position: Full Stack Engineer
+  - position: Software Engineer
     company_name: Stoshe
     company_url: 'https://www.stoshe.ir'
     company_logo: ''
     date_start: 2021-03-01
     date_end: 2022-07-15
     summary: |
-      Responsibilities include:
-      - Collaborating on the development of a data-intensive application, which assisted in automating the generation of motion videos with emphasis on marketing advertisement videos. The goal was to deliver effective, time-saving solutions that seamlessly translate marketing needs into compelling video content.
-      - Developing an advanced web scraper using JavaScript, Node.js, Puppeteer, React and MongoDB to retrieve the data needed for video creation.
-      - Developing a website with Node.js, React, MongoDB and a professional Git/GitHub workflow.
-      - Automating CI/CD pipelines for unit and integration testing, as well as the deployment the web app, database and Nginx using Docker Compose, GitHub Actions and scripting.
-
+      - Collaborated on developing a data-intensive application using Python and AfterEffects to automate motion video generation for marketing advertisements, achieving a ~50% reduction in production time and enhancing video quality by ~20%.
+      - Created an advanced web scraper with JavaScript, Node.js, Puppeteer, React, and MongoDB, handling over 10,000 data points daily and increasing data retrieval efficiency by 40% through optimization techniques like parallel processing and efficient DOM manipulation.
+      - Engineered a full-stack website using Node.js, React, and MongoDB, implementing RESTful APIs and Redux for state management, and adhering to a professional Git/GitHub workflow, resulting in a seamless and scalable user experience.
+      - Developed an automated deployment workflow using Docker Compose and custom scripting, achieving a 30% increase in deployment speed and reducing downtime by 25%.
+      - Created an image processing app with OpenCV to remove backgrounds, detect primary colors, and segment objects, enhancing image processing capabilities for marketing content.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
