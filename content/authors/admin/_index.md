@@ -116,7 +116,7 @@ skills:
       - name: Coffee
         description: ''
         percent: 100
-        icon: coffee-bean
+        icon: mug-hot
       - name: Photography
         description: ''
         percent: 80
