@@ -75,6 +75,19 @@ work:
       - Engineered a full-stack website using Node.js, React, and MongoDB, implementing RESTful APIs and Redux for state management, and adhering to a professional Git/GitHub workflow, resulting in a seamless and scalable user experience.
       - Developed an automated deployment workflow using Docker Compose and custom scripting, achieving a 30% increase in deployment speed and reducing downtime by 25%.
       - Created an image processing app with OpenCV to remove backgrounds, detect primary colors, and segment objects, enhancing image processing capabilities for marketing content.
+      
+  - position: Co-Founder & Software Engineer
+    company_name: Misarfeh
+    company_url: 'https://www.misarfeh.com'
+    company_logo: ''
+    date_start: 2019-12-01
+    date_end: 2021-05-01
+    summary: |
+      - Co-founded and developed an e-commerce platform, achieving a customer base of 1,000 users within the first year.
+      - Engineered a scalable architecture using Node.js, React, and MongoDB, supporting 200 product listings and processing ~1500 transactions.
+      - Automated order processing and fulfillment workflows, reducing operational costs by ~20%.
+      - Designed and developed an intuitive admin dashboard using D3.js, Chart.js, Plotly.js, WebSocket, and Socket.io for real-time data updates and interactive visualizations. Enhanced decision-making capabilities with predictive analytics, customizable dashboards, and alerts for anomalies such as sudden spikes in website traffic.
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
