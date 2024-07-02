@@ -141,4 +141,4 @@ awards:
     summary: ''
 ---
 
-Data Scientist & Software Engineer working on creative computer science and engineering related ideas. I’m interested in Data Science, Software Architecture, Open Innovation, Artificial Intelligence and Robotics. Currently looking forward to work with passionate professionals as Data Scientist, Machine Learning Engineer or Deep Learning Engineer.
+Dedicated and innovative Software Engineer with a strong focus on Software Development, Software Architecture, Open Innovation, Artificial Intelligence, and Robotics. Eager to collaborate with passionate professionals and leverage my expertise to drive forward-thinking projects and technological advancements.
