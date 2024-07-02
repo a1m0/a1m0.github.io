@@ -96,7 +96,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/python
       - name: JavaScript
         description: ''
         percent: 80
@@ -116,7 +116,7 @@ skills:
       - name: Coffee
         description: ''
         percent: 100
-        icon: "☕️"
+        icon: devicon/coffeescript
       - name: Photography
         description: ''
         percent: 80
