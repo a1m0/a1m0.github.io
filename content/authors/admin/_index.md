@@ -49,22 +49,19 @@ education:
       - Advanced Data Structures and Algorithms
       - Artificial Intelligence
 work:
-  - position: Data Scientist - Internship
+  - position: Data Science Intern (Bootcamp)
     company_name: Quera
     company_url: 'https:\\quera.org'
     company_logo: ''
     date_start: 2023-08-01
     date_end: 2023-11-15
     summary: |2-
-      Responsibilities include:
-      - Using advanced computational Mathematics and Data Visualization tools like Microsoft Power-BI and Python (Matplotlib & Plotly) to analyze various data and draw inferences and testing them using Statistical Hypothesis Testing.
-      - Creating a Python web scraper app to scrape useful data from CoinMarketCap website.
-      - Creating various databases to store and retrieve data using MySql & Neo4j.
-      - Integrating Machine Learning and Deep Learning algorithms into various projects, leveraging their predictive and analytical abilities to propel the process towards the objectives. From using clustering algorithms for effective market segmentation to deploying deep learning neural networks in complex recognition tasks.
-      - In the project involving customer behavior prediction, We used NLP algorithms for predicting customer satisfaction based on user review comments about products, thereby personalizing customer interactions, enhancing customer engagement and contributing to the achievement of improving customer experience.
-      - In Cryptocurrency market analyses project, I used supervised learning algorithms predicting closing prices aiding in better investment in the future.
-      - In E-Commerce Products project, We created an image classifier to automate product categorization. Leveraging the power of Deep Learning, this image classifier can analyze product images & intelligently classify them into appropriate categories, without any manual intervention.
-      - On each project we embarked on, I ensured a well-coordinated approach by facilitating effective communication among team members, encouraging everyone to share their unique perspectives. In an interdisciplinary field like data science, where varying skills from data collection, processing, visualization, model building to the interpretation of results are needed, harnessing the potential of every team member is critical. This practice promoted collective intelligence and enhanced creativity and problem-solving capacity.
+      - Analyzed data with Power-BI and Python (Matplotlib, Plotly) and conducted statistical hypothesis testing.
+      - Developed a Python web scraper for CoinMarketCap.
+      - Managed MySQL and Neo4j databases.
+      - Implemented NLP techniques to predict customer satisfaction from user reviews, achieving 70-75% across various performance metrics (accuracy, precision, recall, F1 score).
+      - Automated product categorization in e-commerce with a deep learning image classifier, achieving a score of 70-75% on various metrics.
+      - Promoted effective team communication and collaboration.
 
   - position: Full Stack Engineer
     company_name: Stoshe
