@@ -116,15 +116,11 @@ skills:
       - name: Coffee
         description: ''
         percent: 100
-        icon: ☕️
+        icon: "☕️"
       - name: Photography
         description: ''
         percent: 80
         icon: camera
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
 
 languages:
   - name: Persian/Farsi
