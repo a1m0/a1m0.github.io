@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist | Machine Learning Engineer
+role: Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 
