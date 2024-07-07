@@ -68,7 +68,7 @@ work:
     company_url: 'https://www.stoshe.ir'
     company_logo: ''
     date_start: 2021-03-01
-    date_end: 2022-07-15
+    date_end: 2022-11-15
     summary: |
       - Collaborated on developing a data-intensive application using Python and AfterEffects to automate motion video generation for marketing advertisements, achieving a ~50% reduction in production time and enhancing video quality by ~20%.
       - Created an advanced web scraper with JavaScript, Node.js, Puppeteer, React, and MongoDB, handling over 10,000 data points daily and increasing data retrieval efficiency by 40% through optimization techniques like parallel processing and efficient DOM manipulation.
